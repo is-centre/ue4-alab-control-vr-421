@@ -75,3 +75,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Specific for this project: extra MATLAB files
+MATLAB/slprj/*
+MATLAB/*_sldrt_*/
+MATLAB/*.rxw64
